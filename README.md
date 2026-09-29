@@ -1,3 +1,8 @@
+> [!WARNING]
+> **REPOSITORY ARCHIVED**
+> 
+> This repository is no longer maintained. As part of ongoing major restructuring, **[NBTLoupe](https://github.com/NBTLoupe/NBTLoupe)** is transitioning to its own internal implementations and will be removing this dependency.
+
 ## What is this?
 **neoSubstrate** is MallardLuna's fork of Substrate, and is the library that powers NBTLoupe.
 
